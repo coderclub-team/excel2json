@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "rootDir": "./src",
+    "moduleResolution": "node"
+  },
+  "include": ["./src/**/*", "src/index.tsx.tssrc/index.tsindex.ts"],
+  "exclude": ["node_modules"]
+}
